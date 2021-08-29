@@ -1,5 +1,3 @@
-#CPRG104 GUI Assignment - Address book entry form with address browser split into tabs to break up addresses
-#Written by Kelly Schmidt
 
 #import modules
 from PyQt5 import QtWidgets
